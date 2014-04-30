@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-// Hello World
+// Hello World by caojf
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
